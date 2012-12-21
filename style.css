@@ -1,0 +1,16 @@
+@charset "utf-8";
+/*
+    // ========================================== \\
+   ||         	Prabhat Kumar                  ||
+   ||         02:08:44 PM; 21/12/2012              ||
+   ||   Copyright © 2012. All Rights Reserved.     ||
+    \\ ========================================== //
+*/
+* {margin:0;padding:0;}
+a img {border:none;}
+a {text-decoration:none;}
+body {font:400 12px/1.625 "Helvetica Neue", Helvetica, Arial, sans-serif;color:#444;margin:0 auto;}
+div.wrapper {max-width:1000px;width:95%;margin:0 auto;position:relative;}
+#banner {overflow:auto;background:#33363C;border-top:5px solid #2F3135;border-bottom:2px solid #04A4CC;height:250px;}
+h1#logo {float:left;margin:10px 50px 5px;}
+#logo img {width:24px;height:24px;}
